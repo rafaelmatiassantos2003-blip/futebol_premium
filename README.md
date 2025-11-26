@@ -1,0 +1,3 @@
+# Futpremium Frontend
+
+Placeholder project.
